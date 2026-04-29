@@ -1,8 +1,5 @@
 # Fame-Based Social Network
 
-**Course:** Big Data Engineering, Saarland University  
-**Instructor:** Prof. Dr. Jens Dittrich
-
 ## Project Context
 This repository contains my student implementations for a custom social network. 
 
